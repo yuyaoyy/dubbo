@@ -2,6 +2,7 @@ package com.yuyao.user;
 
 import java.io.Serializable;
 
+//这里推送到git
 public class User  implements Serializable{
 	
 	private String id;
